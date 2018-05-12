@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/40494
     wikipedia: http://en.wikipedia.org/wiki/Sir_Charles_Dilke,_2nd_Baronet
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41755#Greater-BritainA-Record-of-Travel-in-English-Speaking-Countries-During-1866-7
 gutenberg_issued: '2013-01-01'
 gutenberg_type: Text
 identifiers:
